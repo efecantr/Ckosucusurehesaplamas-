@@ -1,5 +1,6 @@
 # Ckosucusurehesaplaması
 C dilinde, bir koşucunun her gün sabit bir rotada koştuğu mesafeyi ne kadar sürede tamamladığını hesaplayan ve koşucunun gelişimini takip etmesine yardımcı olan programım.
+
 Değişken İsimleri ve Açıklamaları:
 ZamanDonusturucu: TimeConverter yerine kullanıldı.
 TarihSaat ve epoch zamanını bir arada tutar.
